@@ -6,8 +6,8 @@ A new Flutter project.Combine Deep Learning and Flutter to classify images and d
 
 Using tflite a library of tensorflow by google , train and customize your model for your images and n number of classes.
 
-![alt text]()
-![alt text]()
+![alt text](https://github.com/as959/Flutter/blob/main/Plant%20classification/intro.jpeg)
+![alt text](https://github.com/as959/Flutter/blob/main/Plant%20classification/mainpage.jpeg)
 
 # Requirements 
 
