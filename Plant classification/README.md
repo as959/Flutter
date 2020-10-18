@@ -1,6 +1,22 @@
 # plant_classify
 
-A new Flutter project.
+A new Flutter project.Combine Deep Learning and Flutter to classify images and deploy a cross platform application (Android supported currently). 
+
+# Discription 
+
+Using tflite a library of tensorflow by google , train and customize your model for your images and n number of classes.
+
+![alt text]()
+![alt text]()
+
+# Requirements 
+
+- tflite trained model
+-label of the classes specified in model
+-IDE which support Flutter and Dart (I am using VS Code)
+
+
+
 
 ## Getting Started
 
